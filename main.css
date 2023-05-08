@@ -1,0 +1,126 @@
+body {
+  margin: 0px;
+  background-color: white;
+	
+}
+
+.storyheader {
+    max-width: 800px;
+  font-family: "Tahoma", sans-serif;
+  margin-left: 200px;
+  margin-right: auto;
+  line-height: 1.5;
+}
+
+.photo-caption {
+  font-style: italic;
+  font-size: 14px;
+  margin-top: 0px;
+  padding-top: 10px;
+  text-align: left;
+  color: dimgrey;
+  padding-bottom: 5px;
+
+}
+
+h1 {
+  font-style: italic;
+  font-size: 33px;
+  font-weight: bold;
+  margin: auto;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.deck {
+  font-size: 23px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.byline {
+  font-size: 20px;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.storybody {
+    max-width: 800px;
+  font-family: 'Arial', sans-serif;
+  margin-left: 200px;
+  margin-right: auto;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.graphic{
+  max-width: 85%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+   display: block;
+  margin: 30px auto 5px auto;
+}
+
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+
+}
+
+.lead-photo {
+  max-width: 100%;
+  height: auto;
+  margin-top: 5px;
+
+}
+
+.other-photo {
+  max-width: 85%;
+  height: auto;
+  display: block;
+  margin: 30px auto 5px auto;
+}
+
+
+.photo-caption1 {
+	font-style: italic;
+  font-size: 14px;
+  margin-left: 63px;
+  margin-top: 0px;
+  padding-top: 10px;
+  text-align: left;
+  color: dimgrey;
+  max-width: 85%;
+  display: block;
+  padding-bottom: 10px;
+
+
+}
+
+.footer {
+   max-width: 800px;
+  font-family: 'Arial', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  font-size: 16px;
+  line-height: 1.5;
+  font-style: italic;
+  font-size: 14px;
+  margin-top: 2px;
+  text-align: left;
+  color: slateblue;
+}
+
+
+
+
